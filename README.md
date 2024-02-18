@@ -1,6 +1,15 @@
 # Home-Automation-using-Arduino-Nano-and-Bluetooth
 
-![image](https://github.com/rutujnagrale/Home-Automation-using-Arduino-Nano-and-Bluetooth/assets/123777612/b6f0e448-753b-4c47-a60a-ce249acb8a24)
+
+![Uploading How to make a Home Appliance Control Using Android Application.png…]()
+
+
+![Uploading Tinkercard.png…]()
+
+![1st](https://github.com/rutujnagrale/Home-Automation-using-Arduino-Nano-and-Bluetooth/assets/123777612/838e585f-fb7d-479c-a4fe-d8dd929b5eb7)
+
+![2nd](https://github.com/rutujnagrale/Home-Automation-using-Arduino-Nano-and-Bluetooth/assets/123777612/d934e443-8c44-45cf-a8c1-74574a0cbca8)
+
 
 
 This project was made by me the in the first year of my engineering college and and we have made this project because Home  automation  allows  to  control  house  appliances  like  door, light, fan, oven… etc. It  also provides  emergency system  and  home  security. It  enables  the  consumer  more  control  of  his home  it  facilitates  many  conditions, for example, if  the  consumer  is  on  his  way   to his  home, controlling  light  turning  on, or pre- heating  oven  when  he  got  home, therefore, many  manual actions  is  replaced  by  home  automation  which   reduce  human  efforts  and  time  saving.
